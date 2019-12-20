@@ -7,7 +7,7 @@ This version is to allow for use with Laravel 6+ which requires Carbon v2+
 ### Installation
 
 ```
-composer require prbooker/handesk-php-laravel-6
+composer require pbrooker/handesk-php-laravel-6
 ```
 
 #### Usage 
