@@ -1,5 +1,5 @@
 {
-    "name": "badchoice/handesk-php",
+    "name": "pbrooker/handesk-php-laravel-6",
     "description": "Handesk PHP sdk",
     "type": "library",
     "require": {

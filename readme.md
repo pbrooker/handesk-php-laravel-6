@@ -2,10 +2,12 @@
 
 Check the full project at [https://github.com/BadChoice/handesk](https://github.com/BadChoice/handesk)
 
+This version is to allow for use with Laravel 6+ which requires Carbon v2+
+
 ### Installation
 
 ```
-composer require badchoice/handesk-php
+composer require prbooker/handesk-php-laravel-6
 ```
 
 #### Usage 
